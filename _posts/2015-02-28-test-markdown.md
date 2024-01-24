@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test markdown
+title: Test markdown입니다.
 subtitle: Each post also has a subtitle
 categories: markdown
 tags: [test]
